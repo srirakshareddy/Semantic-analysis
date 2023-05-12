@@ -9,7 +9,7 @@ negative, or neutral in some cases, depending on the context.
 I have divided the project into two separate files to distinguish the TF-IDF and Bag of words approach, and the deep learning neural network (GRU) approach. 
 
 **Dataset:**
-1. nlp_final_data.csv : We have shared in the project folder.
+1. data.csv
 2. glove.twitter.27B.200d :
 https://www.kaggle.com/datasets/fullmetal26/glovetwitter27b100dtxt
 
