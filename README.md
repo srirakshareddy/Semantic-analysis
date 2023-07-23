@@ -1,4 +1,4 @@
-# Semantic-analysis
+# Safeguarding Online Discourse with Advanced Hate Speech Detection on Twitter Data
 
 With the emergence of social media websites, platforms that provide microblogging experiences have experienced a large increase in the variety of viewpoints and portraits of thinking. With such a wide userbase and real-time sharing of opinions, updates, and trends, hate
 speech, abuse, and bullying have increased significantly. As a result, the goal of this project is to detect hate speech remarks or comments across the site. This approach employs the larger notion of sentiment analysis, in which every view is classified as either positive or
